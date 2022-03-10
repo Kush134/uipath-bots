@@ -1,0 +1,39 @@
+{
+  "Packages": [
+    {
+      "Package": {
+        "Id": "UiPath.Excel.Activities",
+        "Version": "[2.8.2-preview]"
+      },
+      "Assemblies": [],
+      "Path": null
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Mail.Activities",
+        "Version": "[1.8.2-preview]"
+      },
+      "Assemblies": [],
+      "Path": null
+    },
+    {
+      "Package": {
+        "Id": "UiPath.System.Activities",
+        "Version": "[20.3.0-preview]"
+      },
+      "Assemblies": [],
+      "Path": null
+    },
+    {
+      "Package": {
+        "Id": "UiPath.UIAutomation.Activities",
+        "Version": "[20.3.0-beta.809772]"
+      },
+      "Assemblies": [],
+      "Path": null
+    }
+  ],
+  "Conflicts": [],
+  "ResolvedDependencies": {},
+  "AllPackages": []
+}

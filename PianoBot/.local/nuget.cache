@@ -1,0 +1,53 @@
+{
+  "version": 2,
+  "dgSpecHash": "8RgzMXEF6nzKqCvX2JPRKIypqnOCJNRGkdFR1RkKabu9HqULKlwFUKrIV66aqwOf8QGu7TQ28VN0mz98i3ZPNA==",
+  "success": false,
+  "projectFilePath": "D:\\UIPATH\\drive-download-20211227T165852Z-001\\PianoBot\\.local\\",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1102",
+      "level": "Error",
+      "filePath": "D:\\UIPATH\\drive-download-20211227T165852Z-001\\PianoBot\\.local",
+      "message": "Unable to find package UiPath.System.Activities with version (= 20.3.0-preview)\r\n  - Found 2 version(s) in C:\\Users\\Administrator\\AppData\\Local\\Programs\\UiPath\\Studio\\Packages [ Nearest version: 21.10.3 ]\r\n  - Found 2 version(s) in Local [ Nearest version: 21.10.3 ]\r\n  - Found 0 version(s) in https://api.nuget.org/v3/index.json\r\n  - Found 0 version(s) in nuget.org\r\n  - Found 0 version(s) in https://gallery.uipath.com/api/v2\r\n  - Found 0 version(s) in Connect\r\n  - Found 0 version(s) in https://www.myget.org/F/workflow\r\n  - Found 0 version(s) in Official",
+      "libraryId": "UiPath.System.Activities",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1",
+        ".NETFramework,Version=v4.6.1/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1102",
+      "level": "Error",
+      "filePath": "D:\\UIPATH\\drive-download-20211227T165852Z-001\\PianoBot\\.local",
+      "message": "Unable to find package UiPath.UIAutomation.Activities with version (= 20.3.0-beta.809772)\r\n  - Found 2 version(s) in C:\\Users\\Administrator\\AppData\\Local\\Programs\\UiPath\\Studio\\Packages [ Nearest version: 21.10.4 ]\r\n  - Found 2 version(s) in Local [ Nearest version: 21.10.4 ]\r\n  - Found 0 version(s) in https://api.nuget.org/v3/index.json\r\n  - Found 0 version(s) in nuget.org\r\n  - Found 0 version(s) in https://gallery.uipath.com/api/v2\r\n  - Found 0 version(s) in Connect\r\n  - Found 0 version(s) in https://www.myget.org/F/workflow\r\n  - Found 0 version(s) in Official",
+      "libraryId": "UiPath.UIAutomation.Activities",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1",
+        ".NETFramework,Version=v4.6.1/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1102",
+      "level": "Error",
+      "filePath": "D:\\UIPATH\\drive-download-20211227T165852Z-001\\PianoBot\\.local",
+      "message": "Unable to find package UiPath.Excel.Activities with version (= 2.8.2-preview)\r\n  - Found 1 version(s) in C:\\Users\\Administrator\\AppData\\Local\\Programs\\UiPath\\Studio\\Packages [ Nearest version: 2.11.4 ]\r\n  - Found 1 version(s) in Local [ Nearest version: 2.11.4 ]\r\n  - Found 0 version(s) in https://api.nuget.org/v3/index.json\r\n  - Found 0 version(s) in nuget.org\r\n  - Found 0 version(s) in https://gallery.uipath.com/api/v2\r\n  - Found 0 version(s) in Connect\r\n  - Found 0 version(s) in https://www.myget.org/F/workflow\r\n  - Found 0 version(s) in Official",
+      "libraryId": "UiPath.Excel.Activities",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1",
+        ".NETFramework,Version=v4.6.1/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1102",
+      "level": "Error",
+      "filePath": "D:\\UIPATH\\drive-download-20211227T165852Z-001\\PianoBot\\.local",
+      "message": "Unable to find package UiPath.Mail.Activities with version (= 1.8.2-preview)\r\n  - Found 1 version(s) in C:\\Users\\Administrator\\AppData\\Local\\Programs\\UiPath\\Studio\\Packages [ Nearest version: 1.12.3 ]\r\n  - Found 1 version(s) in Local [ Nearest version: 1.12.3 ]\r\n  - Found 0 version(s) in https://api.nuget.org/v3/index.json\r\n  - Found 0 version(s) in nuget.org\r\n  - Found 0 version(s) in https://gallery.uipath.com/api/v2\r\n  - Found 0 version(s) in Connect\r\n  - Found 0 version(s) in https://www.myget.org/F/workflow\r\n  - Found 0 version(s) in Official",
+      "libraryId": "UiPath.Mail.Activities",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1",
+        ".NETFramework,Version=v4.6.1/win10-x64"
+      ]
+    }
+  ]
+}
